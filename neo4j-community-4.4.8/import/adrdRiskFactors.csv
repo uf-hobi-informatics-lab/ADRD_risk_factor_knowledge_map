@@ -1,0 +1,708 @@
+﻿Covidence_num,OutcomeCategory,StandardizedRF,RFCategory,StdEffect
+#260,AD,a1-antichymotrypsin signal peptide 215A/T polymorphism,Genomic,increase risk
+#169,AD,Alpha-1-antichymotrypsin (ACT)-17(A>T) polymorphisms,Genomic,Increase risk
+#366,AD,ABCA1 rs2066718 and rs1800977,Genomic,not significant
+#366,AD,ABCA1 rs2422493,Genomic,Increase risk
+#527,AD,ATP-binding cassette transporter A1 (ABCA1),Genomic,Not significant
+#419,AD,AD-linc1,Genomic,Increase risk
+#419,AD,AD-linc2,Genomic,Increase risk
+#555,AD,amyloid beta,Biomarker,Increase risk
+#868,AD,amyloid beta-40,Biomarker,increase risk
+#868,AD,amyloid beta-42,Biomarker,increase risk
+#641,AD,Amyloid-beta removal,Medication,Not significant
+#229,AD,apoe,Genomic,decrease risk
+#402,dementia,apoe,Genomic,Increase risk
+#495,vascular dementia,ApoE,Genomic,increase risk
+#495,vascular dementia,ApoE,Genomic,increase risk
+#952,dementia,apoe,Genomic,Increase risk
+#180,AD,APOE e2,Genomic,not significant
+#375,AD,APOE e2,Genomic,Not significant
+#567,AD,APOE e2,Genomic,Decrease risk
+#180,AD,ApoE e2/3,Genomic,not significant
+#180,AD,ApoE e2/4,Genomic,increase risk
+#180,AD,ApoE e2/4,Genomic,decrease risk
+#180,AD,APOE e3,Genomic,decrease risk
+#375,AD,APOE e3,Genomic,Decrease risk
+#180,AD,ApoE e3/4,Genomic,increase risk
+#180,AD,ApoE e3/4,Genomic,decrease risk
+#106,AD,APOE e4,Genomic,Increase risk
+#180,AD,APOE e4,Genomic,increase risk
+#375,AD,APOE e4,Genomic,Increase risk
+#513,Dementia,APOE e4,Genomic,Increase risk
+#716,AD,APOE e4,Genomic,Increase risk
+#857,AD,APOE e4,Genomic,increase risk
+#980,AD,APOE e4,Genomic,Increase risk
+#180,AD,ApoE e4/4,Genomic,increase risk
+#938,dementia,modifiable risk factors associated with APOE e4,Genomic,Not significant
+#273,AD,rs12989701 BIN1,Genomic,Increase risk
+#273,AD,rs744373 BIN1,Genomic,Increase risk
+#424,AD,rs744373 BIN1,Genomic,Increase risk
+#308,AD,ESR1 PvuII polymorphism,Genomic,decrease risk
+#308,AD,ESR1 XbaI polymorphism,Genomic,not significant
+#266,AD,IL-10 gene polymorphism,Genomic,increase risk
+#266,AD,IL-10 gene polymorphism,Genomic,increase risk
+#273,AD,IL-1A rs1800587,Genomic,Increase risk
+#273,AD,IL-1B rs1143634,Genomic,Increase risk
+#317,AD,IL-6-174G/C polymorphism,Genomic,Increase risk
+#354,AD,il-6-174g/c polymorphism,Genomic,Not significant
+#756,AD,interleukin-8 gene polymorphism,Genomic,increase risk
+#419,AD,LncRNA 17A,Genomic,Increase risk
+#419,AD,long non-coding RNA,Genomic,Increase risk
+#419,AD,long non-coding RNAs(BC200),Genomic,Increase risk
+#419,AD,long non-coding RNAs(EBF3-AS),Genomic,Increase risk
+#403,AD,vegf-1154g/a,Genomic,Not significant
+#403,AD,vegf-2578c/a,Genomic,Not significant
+#207,AD,ACE gene I/D polymorphism,Genomic,Increase risk
+#1132,dementia,acetylcholinesterase inhibitors,Medication,Decrease risk
+#588,AD,acetylcholinesterase inhibitors,Medication,Not significant
+#405,vascular dementia,activated factor VII,Biomarker,Increase risk
+#934,Dementia,activity,Life style,Decrease risk
+#471,AD,adherence to healthy diet,Life style,Increase risk
+#442,AD,adiposity,Condition,Not significant
+#164,Dementia,affective disorders,Condition,Increase risk
+#157,dementia,age,Demographic,Increase risk
+#425,AD,age,Demographic,Increase risk
+#567,AD,age,Demographic,Increase risk
+#655,dementia,age,Demographic,inconsistent
+#857,AD,age,Demographic,increase risk
+#952,dementia,age,Demographic,Increase risk
+#250,AD,Agreeableness,Life style,decrease risk
+#1021,Dementia,Air Pollution,Environment,Decrease risk
+#401,dementia,Air pollution,Environment,increase risk
+#458,AD,air pollution,Environment,Increase risk
+#553,dementia,Air Pollution,Environment,Increase risk
+#274,dementia,Alcohol,Life style,inconsistent
+#298,Dementia,Alcohol,Life style,Decrease risk
+#298,Dementia,Alcohol,Life style,Increase risk
+#435,dementia,Alcohol,Life style,Decrease risk
+#435,VaD,Alcohol,Life style,Decrease risk
+#435,AD,Alcohol,Life style,Decrease risk
+#486,Dementia,Alcohol,Life style,Increase risk
+#487,dementia,Alcohol,Life style,Increase risk
+#566,AD,Alcohol,Life style,Decrease risk
+#567,AD,Alcohol,Life style,Decrease risk
+#655,dementia,Alcohol,Life style,inconsistent
+#1049,AD,alpha-lipoic acid (ALA),Medication,Decrease risk
+#1058,AD,Aluminum,Environment,Increase risk
+#553,dementia,aluminum,Environment,Increase risk
+#823,dementia,Androgen deprivation therapy,Medication,Increase risk
+#347,AD,anesthesia,Procedure,not significant
+#655,dementia,Angina,Condition,inconsistent
+#87,AD,angiotensin converting enzyme inhibitor,Medication,decrease risk
+#766,AD,Angiotensin receptor blocker,Medication,decrease risk
+#87,AD,angiotensin receptor blocker,Medication,decrease risk
+#963,dementia,ankle-brachial index,Biomarker,Increase risk
+#435,AD,Anti- inflammatories ,Medication,Decrease risk
+#834,AD,anti-amyloid-b immunotherapy,Medication,Decrease risk
+#834,AD,anti-amyloid-b immunotherapy,Medication,Decrease risk
+#834,AD,anti-amyloid-b immunotherapy,Medication,Decrease risk
+#487,dementia,anticholinergic drugs,Medication,Not significant
+#914,AD,anticholinergic drugs,Medication,Increase risk
+#1048,Dementia,Anticoagulation,Medication,Decrease risk
+#1185,dementia,antihypertensive medication,Medication,Decrease risk
+#25,Dementia,antihypertensive medication,Medication,Not significant
+#435,dementia,antihypertensive medication,Medication,Decrease risk
+#435,AD,antihypertensive medication,Medication,Not significant
+#487,dementia,antihypertensive medication,Medication,Decrease risk
+#519,Dementia,antihypertensive medication,Medication,Decrease risk
+#519,AD,antihypertensive medication,Medication,Decrease risk
+#519,Vascular dementia,antihypertensive medication,Medication,Decrease risk
+#529,dementia,antihypertensive medication,Medication,Decrease risk
+#532,dementia,antihypertensive medication,Medication,Not significant
+#532,AD,antihypertensive medication,Medication,Decrease risk
+#566,AD,antihypertensive medication,Medication,Decrease risk
+#274,dementia,Antioxidant,Biomarker,inconsistent
+#435,dementia,antioxidants,Medication,Decrease risk
+#1270,dementia,anxiety,Condition,Not significant
+#1270,AD,Anxiety,Condition,Not significant
+#1270,Dementia,Anxiety,Condition,Not significant
+#1270,AD,anxiety,Condition,Not significant
+#284,dementia,Anxiety,Condition,increase risk
+#345,dementia,Anxiety,Condition,increase risk
+#350,dementia,anxiety,Condition,Increase risk
+#412,dementia,anxiety,Condition,Increase risk
+#427,vascular dementia,Anxiety,Condition,Increase risk
+#502,dementia,Anxiety,Condition,Increase risk
+#502,dementia,anxiety,Condition,Increase risk
+#502,Dementia,Anxiety,Condition,Increase risk
+#502,dementia,anxiety,Condition,Increase risk
+#103,dementia,arachidonic acid,Biomarker,not significant
+#566,AD,arthritis,Condition,Decrease risk
+#225,Dementia,atherosclerosis,Condition,Increase risk
+#1069,dementia,atrial fibrillation,Condition,Increase risk
+#171,AD,atrial fibrillation,Condition,Increase risk
+#225,Dementia,atrial fibrillation,Condition,Increase risk
+#435,dementia,Atrial fibrillation ,Condition,Increase risk
+#435,AD,Atrial fibrillation ,Condition,Not significant
+#422,Dementia,being married,Life style,Decrease risk
+#422,Dementia,being married,Life style,Increase risk
+#1263,Dementia,Benzodiazepine,Medication,Increase risk
+#435,dementia,benzodiazepine,Medication,Not significant
+#481,dementia,benzodiazepine,Medication,increase risk
+#277,dementia,bilingualism,Demographic,Not significant
+#435,Dementia,bilingualism,Demographic,Not significant
+#418,dementia,Bipolar disorder,Condition,Increase risk
+#641,AD,Blocking Amyloid-beta signaling,Medication,Not significant
+#641,AD,Blocking tau-Mediated toxicity,Medication,Not significant
+#1006,dementia,body mass index,Condition,Not significant
+#208,AD,body mass index,Condition,Increase risk
+#217,dementia,body mass index,Condition,Increase risk
+#231,AD,body mass index,Condition,increase risk
+#423,dementia,body mass index,Condition,Increase risk
+#435,VaD,body mass index,Condition,Increase risk
+#435,dementia,body mass index,Condition,Increase risk
+#435,AD,body mass index,Condition,Increase risk
+#566,AD,Body mass index,Condition,Increase risk
+#566,AD,Body mass index,Condition,Decrease risk
+#566,AD,Body mass index,Condition,Increase risk
+#655,dementia,Bone mineral density,Biomarker,inconsistent
+#888,AD,Bone mineral density,Biomarker,increase risk
+#888,AD,Bone mineral density,Biomarker,increase risk
+#1038,AD,Brain-derived neurotrophic factor,Biomarker,Increase risk
+#215,dementia,Bullous pemphigoid,Condition,Increase risk
+#435,AD,Cancer,Condition,Not significant
+#566,AD,cancer,Condition,Decrease risk
+#588,AD,Cannabinoids,Medication,Not significant
+#566,AD,cardiovascular disease,Condition,Decrease risk
+#294,dementia,cardiovascular risk factors,Condition,inconsistent
+#423,dementia,cardiovascular risk factors,Condition,Increase risk
+#452,Dementia,cardiovascular risk factors,Condition,Increase risk
+#566,AD,carotid atherosclerosis,Condition,Increase risk
+#435,AD,Carotid atherosclerosis ,Condition,Not significant
+#854,AD,Cathepsins,Biomarker,Decrease risk
+#891,Dementia,Cerebral Microbleeds,Condition,Not significant
+#590,dementia,Cerebrolysin,Medication,decrease risk
+#703,AD,Cerebrolysin,Medication,Decrease risk
+#1046,AD,cerebrospinal fluid,Biomarker,Increase risk
+#555,AD,cerebrospinal fluid,Biomarker,Increase risk
+#520,AD,ChAT gene polymorphism,Genomic,increase risk
+#520,AD,ChAT gene polymorphism,Genomic,not significant
+#520,AD,ChAT gene polymorphism,Genomic,not significant
+#520,AD,ChAT gene polymorphism,Genomic,increase risk
+#435,AD,Cholesterol,Biomarker,Not significant
+#435,VaD,Cholesterol,Biomarker,Not significant
+#435,dementia,Cholesterol,Biomarker,Not significant
+#477,AD,cholesterol,Biomarker,Increase risk
+#974,AD,cholesterol,Biomarker,inconsistent
+#1021,AD,Cholesterol,Condition,Increase risk
+#530,AD,Cholinesterase inhibitors,Medication,decrease risk
+#641,AD,cholinesterase inhibitors,Medication,Decrease risk
+#814,AD,cholinesterase inhibitors,Medication,Decrease risk
+#1071,dementia,Chronic Obstructive Pulmonary Disease (COPD),Condition,Increase risk
+#392,Dementia,Chronic periodontal disease,Condition,Increase risk
+#364,dementia,circulating metabolites,Biomarker,Increase risk
+#408,Dementia,coffee,Life style,Not significant
+#566,AD,coffee,life style,Decrease risk
+#255,AD,Cognitive activity,Life style,inconsistent
+#325,dementia,Cognitive activity,Life style,decrease risk
+#566,AD,cognitive activity,Life style,Decrease risk
+#593,AD,cognitive activity,Life style,Decrease risk
+#746,AD,cognitive activity,Life style,Decrease risk
+#435,AD,Cognitive engagement ,Life style,Not significant
+#328,Dementia,cognitive training,Procedure,Not significant
+#487,dementia,cognitively demanding leisure activities,Life style,Decrease risk
+#441,Dementia,combination of modifiable risk factors,Life style,Increase risk
+#567,AD,conjugated equine estrogen use with medroxyprogesterone acetate,Medication,Increase risk
+#250,AD,conscientiousness,Life style,increase risk
+#531,Dementia,coronary heart disease,Condition,Increase risk
+#307,AD,CYP46A1 rs754203 polymorphism,Genomic,Not significant
+#425,AD,daily listening to music,Life style,Decrease risk
+#405,AD,D-dimer,Biomarker,Increase risk
+#405,vascular dementia,D-dimer,Biomarker,Increase risk
+#641,AD,Decreasing Amyloid-beta production,Medication,Not significant
+#949,dementia,delirium,Condition,Increase risk
+#1021,AD,Depression,Condition,Increase risk
+#1021,Dementia,Depression,Condition,Increase risk
+#1270,AD,Depression,Condition,Increase risk
+#1270,dementia,depression,Condition,Increase risk
+#1270,AD,Depression,Condition,Increase risk
+#1270,Dementia,Depression,Condition,Increase risk
+#1270,AD,depression,Condition,Increase risk
+#164,Dementia,depression,Condition,Increase risk
+#203,dementia,depression,Condition,Increase risk
+#217,dementia,Depression,Condition,Increase risk
+#345,dementia,Depression,Condition,increase risk
+#352,Dementia,depression,Condition,Increase risk
+#425,AD,depression,Condition,Increase risk
+#426,dementia,depression,Condition,Increase risk
+#487,dementia,depression,Condition,Increase risk
+#502,dementia,Depression,Condition,Increase risk
+#502,dementia,depression,Condition,Increase risk
+#502,AD,depression,Condition,Increase risk
+#502,Dementia,Depression,Condition,Increase risk
+#502,AD,Depression,Condition,Increase risk
+#502,dementia,depression,Condition,Increase risk
+#502,AD,depression,Condition,Increase risk
+#550,Dementia,depression,Condition,Increase risk
+#550,Vascular dementia,depression,Condition,Increase risk
+#550,AD,depression,Condition,Increase risk
+#564,AD,Depression,Condition,inconsistent
+#566,AD,depression,Condition,Increase risk
+#655,dementia,Depression,Condition,inconsistent
+#435,dementia,Depression ,Condition,Increase risk
+#435,VaD,Depression ,Condition,Increase risk
+#435,AD,Depression ,Condition,Increase risk
+#213,dementia,Diabetes,Condition,Not significant
+#217,dementia,Diabetes,Condition,Increase risk
+#283,dementia,diabetes,Condition,Increase risk
+#345,dementia,Diabetes,Condition,increase risk
+#345,AD,Diabetes,Condition,decrease risk
+#423,dementia,diabetes,Condition,Increase risk
+#435,AD,Diabetes,Condition,Increase risk
+#452,Dementia,Diabetes,Condition,Increase risk
+#455,AD,Diabetes,Condition,Increase risk
+#474,AD,diabetes,Condition,increase risk
+#474,vascular dementia,diabetes,Condition,increase risk
+#474,dementia,diabetes,Condition,increase risk
+#487,dementia,diabetes,Condition,Increase risk
+#564,AD,Diabetes,Condition,inconsistent
+#435,dementia,Diabetes ,Condition,Increase risk
+#435,VaD,Diabetes ,Condition,Increase risk
+#567,AD,Diabetes ,Condition,Increase risk
+#468,AD,Diastolic Hypertension,Condition,Not significant
+#1021,AD,diet,Life style,Decrease risk
+#1021,Dementia,Diet,Life style,Decrease risk
+#298,Dementia,diet,Life style,Increase risk
+#435,AD,diet,Life style,Not significant
+#435,dementia,Diet,Life style,Not significant
+#456,dementia,diet,Life style,decrease risk
+#746,AD,diet,Life style,Decrease risk
+#189,dementia,disrupted rest-activity rhythms (RARs),Biomarker,Increase risk
+#487,dementia,diuretics,Medication,Decrease risk
+#467,dementia,DNA Methylation Age,Genomic,Increase risk
+#103,dementia,docosahexaenoic acid,Biomarker,not significant
+#504,AD,donepezil,Medication,decrease risk
+#504,AD,donepezil + memantine,Medication,Not significant
+#345,AD,Dyslipidaemia,Condition,decrease risk
+#144,dementia,education,Social economic status,decrease risk
+#334,AD,education,Social economic status,Not significant
+#372,dementia,education,Social economic status,decrease risk
+#423,dementia,education,Social economic status,Increase risk
+#435,Dementia,education,Social economic status,Decrease risk
+#435,AD,education,Social economic status,Increase risk
+#478,dementia,education,Social economic status,Decrease risk
+#487,dementia,education,Social economic status,Increase risk
+#564,AD,education,Social economic status,inconsistent
+#566,AD,education,Social economic status,Increase risk
+#567,AD,education,Social economic status,Decrease risk
+#857,AD,Education,social economic status,increase risk
+#972,dementia,education,Social economic status,increase risk
+#103,dementia,eicosapentaenoic acid,Biomarker,Increase risk
+#1051,AD,electromagnetic fields,Environment,Increase risk
+#1058,AD,electromagnetic fields,Environment,Increase risk
+#553,dementia,electromagnetic fields,Environment,Increase risk
+#70,AD,electromagnetic fields,Environment,Increase risk
+#240,Dementia,endogenous estrogen,Biomarker,Not significant
+#555,AD,entorhinal atrophy,Condition,Increase risk
+#345,dementia,Epilepsy,Condition,Not significant
+#534,AD,epilepsy,Condition,Not significant
+#1024,AD,essential oils,Medication,Increase risk
+#566,AD,estrogen,Medication,Decrease risk
+#82,dementia,estrogen plus progestin,Biomarker,decrease risk
+#67,Dementia,estrogen plus progestin,Procedure,Increase risk
+#572,AD,exercise,Life style,Decrease risk
+#250,AD,extraversion,Life style,decrease risk
+#405,vascular dementia,factor VIII,Biomarker,Increase risk
+#681,AD,Family history of Parkinson's disease,Family history,not significant
+#369,AD,FERMT2 polymorphism,Genomic,not significant
+#405,vascular dementia,fibrinogen levels,Biomarker,Increase risk
+#275,dementia,fish consumption,Life style,Decrease risk
+#435,AD,fish consumption,Life style,Decrease risk
+#522,AD,fish consumption,Life style,Decrease risk
+#718,AD,fish consumption,Life style,Decrease risk
+#566,AD,folate,Medication,Decrease risk
+#1230,dementia,Frailty,Condition,Increase risk
+#181,Dementia,frailty,Condition,Increase risk
+#181,AD,frailty,Condition,Increase risk
+#181,AD,frailty,Condition,Increase risk
+#181,Vascular dementia,frailty,Condition,Increase risk
+#566,AD,frailty,Condition,Increase risk
+#504,AD,galantamine,Medication,decrease risk
+#419,AD,GDNF-AS,Genomic,Increase risk
+#396,AD,gene,Genomic,Increase risk
+#377,AD,gene(A novel locus was uncovered on chromosome 4),Genomic,Increase risk
+#334,AD,genes,Genomic,Not significant
+#370,AD,Genetic risk scores,Genomic,Increase risk
+#430,Dementia,Genetic variation in clusterin gene (CLU),Genomic,Increase risk
+#425,AD,genetics,Genomic,Increase risk
+#437,Dementia,Ginkgo biloba,Medication,Decrease risk
+#1121,AD,Glaucoma,Condition,Increase risk
+#409,Dementia,Glucocerebrosidase mutations,Genomic,Increase risk
+#341,AD,Glutathione S-transferase,Genomic,Not significant
+#341,AD,Glutathione S-transferase,Genomic,Not significant
+#341,AD,Glutathione S-transferase,Genomic,Not significant
+#341,AD,Glutathione S-transferase,Genomic,Not significant
+#341,AD,Glutathione S-transferase,Genomic,Not significant
+#480,dementia,grean tea intake,Life style,Decrease risk
+#480,AD,grean tea intake,Life style,Decrease risk
+#588,AD,Guanosine analogue antivirals,Medication,Not significant
+#419,AD,HAO2-AS,Genomic,Increase risk
+#239,dementia,Health illteracy,Social economic status,Increase risk
+#280,AD,Hearing loss,Condition,Increase risk
+#399,Dementia,hearing loss,Condition,Increase risk
+#435,dementia,hearing loss,Condition,Increase risk
+#561,dementia,Hearing loss,Condition,increase risk
+#561,AD,Hearing loss,Condition,increase risk
+#563,dementia,Hearing loss,Condition,increase risk
+#531,Dementia,heart failure,Condition,Increase risk
+#952,dementia,high fat intake,Life style,Increase risk
+#555,AD,hippocampal atrophy,Condition,Increase risk
+#381,AD,Homocysteine,Biomarker,increase risk
+#435,AD,Homocysteine,Biomarker,Increase risk
+#405,AD,Homocysteine ,Biomarker,Increase risk
+#405,vascular dementia,Homocysteine ,Biomarker,Increase risk
+#292,dementia,hormone therapy,Medication,Increase risk
+#300,AD,hormone therapy,Medication,not significant
+#435,AD,hormone therapy,Medication,Not significant
+#5,Dementia,hormone therapy,Medication,Increase risk
+#676,AD,Hormone therapy,Medication,inconsistent
+#435,dementia,Hormones,Biomarker,Not significant
+#435,AD,Hormones,Biomarker,Not significant
+#683,AD,Huperzine A,Medication,inconsistent
+#213,dementia,Hypercholesterolemia,Condition,Increase risk
+#566,AD,hyperhomocysteine,Biomarker,Increase risk
+#217,dementia,hyperlipidemia,Condition,Increase risk
+#1021,Vascular Dementia,hypertension,Condition,Increase risk
+#213,dementia,Hypertension,Condition,Not significant
+#217,dementia,Hypertension,Condition,Increase risk
+#281,vascular dementia,hypertension,Condition,increase risk
+#281,vascular dementia,hypertension,Condition,increase risk
+#345,vascular dementia,Hypertension,Condition,increase risk
+#423,dementia,hypertension,Condition,Increase risk
+#425,AD,hypertension,Condition,Increase risk
+#435,VaD,hypertension,Condition,Increase risk
+#435,AD,hypertension,Condition,Not significant
+#487,dementia,hypertension,Condition,Increase risk
+#564,AD,Hypertension,Condition,inconsistent
+#566,AD,hypertension,Condition,Increase risk
+#952,dementia,hypertension,Condition,Increase risk
+#1230,dementia,Hypoglycemia,Condition,Increase risk
+#218,dementia,Hypoglycemia,Condition,Increase risk
+#655,dementia,Illiteracy,Social economic status,inconsistent
+#435,dementia,inflammation,Biomarker,Not significant
+#435,AD,inflammation,Biomarker,Not significant
+#824,AD,inflammation,Condition,Increase risk
+#466,dementia,insomnia,Condition,Increase risk
+#568,AD,Insomnia,Condition,Increase risk
+#568,AD,Insomnia,Condition,Not significant
+#568,Vascular Dementia,Insomnia,Condition,Not significant
+#435,dementia,Insulin sensitizers,Medication,Not significant
+#435,AD,Insulin sensitizers,Medication,Not significant
+#487,dementia,insulin sensitizers,Medication,Increase risk
+#1264,AD,Intensive LDL-cholesterol lowering therapy,Medication,Decrease risk
+#293,Dementia,Intraindividual variability (IIV),Condition,Increase risk
+#947,AD,intravenous immunoglobulins,Procedure,Not significant
+#891,Dementia,Lacunes of Presumed Vascular Origin,Condition,Increase risk
+#334,AD,learning disability,Genomic,Not significant
+#177,demenaia,Leisure activities,Life style,Not significant
+#992,dementia,Leisure activities,Life style,decrease risk
+#547,dementia,leisure time physical activity,Life style,Decrease risk
+#547,AD,leisure time physical activity,Life style,Decrease risk
+#655,AD,Leptin,Biomarker,inconsistent
+#745,AD,Leptin,Biomarker,inconsistent 
+#765,dementia,Life style/environment,Life style,inconsistent
+#238,AD,lipid peroxidation,Biomarker,Increase risk
+#249,AD,lithium,Medication,Decrease risk
+#274,dementia,Living with others,Life style,inconsistent
+#566,AD,low diastolic blood pressure,Condition,Increase risk
+#423,dementia,low income,Social economic status,Increase risk
+#1240,AD,lycopene,Medication,Decrease risk
+#305,AD,Magnesium,Biomarker,Increase risk
+#305,AD,Magnesium,Biomarker,Increase risk
+#305,AD,Magnesium,Biomarker,inconsistent
+#290,Dementia,mastication,Life style,Increase risk
+#435,dementia,Medical Arthritis ,Condition,Not significant
+#435,AD,Medical Arthritis ,Condition,Not significant
+#274,dementia,Mediterranean diet,Life style,inconsistent
+#482,Dementia,mediterranean diet,Life style,Decrease risk
+#482,AD,mediterranean diet,Life style,Decrease risk
+#487,AD,Mediterranean diet,Life style,Decrease risk
+#487,dementia,Mediterranean diet,Life style,Decrease risk
+#567,AD,Mediterranean diet,Life style,Decrease risk
+#570,AD,Mediterranean diet,Life style,Decrease risk
+#601,AD,Mediterranean diet,Life style,Decrease risk
+#936,AD,Mediterranean diet,Life style,Decrease risk
+#425,AD,meeting with friends weekly,Life style,Decrease risk
+#645,AD,melatonin supplements,Medication,Decrease risk
+#504,AD,Memantine,Medication,decrease risk
+#530,AD,Memantine,Medication,decrease risk
+#641,AD,Memantine,Medication,Decrease risk
+#643,AD,Memantine,Medication,Decrease risk
+#487,dementia,mental demands at the work place,Social economic status,Decrease risk
+#150,AD,metabolic syndrome,Condition,inconsistent
+#452,Dementia,Metabolic Syndrome,Condition,Increase risk
+#566,AD,metabolic syndrome,Condition,Decrease risk
+#986,dementia,Metabolic syndrome,Condition,Increase risk
+#435,AD,Metabolic syndrome ,Condition,Not significant
+#545,Dementia,Metformin,Medication,Decrease risk
+#276,AD,methylenetetrahydrofolate reductase (MTHFR) gene C677T polymorphism,Genomic,Increase risk
+#198,AD,microinfarcts,Condition,inconsistent
+#198,vascular dementia,microinfarcts,Condition,inconsistent
+#198,dementia,microinfarcts,Condition,inconsistent
+#420,AD,Microinfarcts,Condition,increase risk
+#13,Dementia,Mineral supplementation,Medication,Not significant
+#310,AD,minor T allele of rs5848,Genomic,Increase risk
+#1100,AD,mitochondria dysfunction and oxidative stress,Condition,Increase risk
+#569,AD,Mn deficiency,Condition,Increase risk
+#435,Dementia,motor function,Biomarker,Not significant
+#818,dementia,motor function,Condition,Increase risk
+#818,dementia,motor function,Condition,Not significant
+#343,dementia with Lewy bodies (DLB),mutations in GBA1,Genomic,Increase risk
+#419,AD,NDM29,Genomic,Increase risk
+#250,AD,Neuroticism,Life style,increase risk
+#173,AD,Nonsteroidal Anti-inflammatory Drugs,Medication,Not significant
+#566,AD,nonsteroidal anti-inflammatory drugs,Medication,Decrease risk
+#590,dementia,nootropic drugs(Citicoline),Medication,Not significant
+#333,AD,NOS3 Glu298Asp,Genomic,Not significant
+#889,AD,NRXN3,Genomic,Increase risk
+#1021,AD,obesity,Condition,Increase risk
+#202,Dementia,obesity,Condition,Increase risk
+#479,dementia,Obesity,Condition,increase risk
+#479,dementia,Obesity,Condition,increase risk
+#487,dementia,obesity,Condition,Increase risk?
+#538,AD,Obesity,Condition,Increase risk
+#564,AD,Obesity,Condition,inconsistent
+#952,dementia,obesity,Condition,Increase risk
+#655,dementia,Occupation,Social economic status,inconsistent
+#566,AD,occupational,Life style,Not significant
+#103,dementia,Omega-3 Fatty Acids level,Biomarker,Increase risk
+#573,dementia,Omega-3 Fatty Acids supplementation,Medication,Not significant
+#718,AD,Omega-3 Fatty Acids supplementation,Medication,Not significant
+#718,Dementia,Omega-3 Fatty Acids supplementation,Medication,Not significant
+#793,dementia,Omega-3 Fatty Acids supplementation,Medication,Decrease risk
+#824,AD,Omega-3 Fatty Acids supplementation,Medication,Not significant
+#103,dementia,Omega-6 Fatty Acids level,Biomarker,not significant
+#250,AD,openness,Life style,decrease risk
+#535,dementia,oral anticoagulant (OAC),Medication,Decrease risk
+#1130,dementia,Orthostatic Hypotension,Condition,Increase risk
+#345,dementia,Orthostatic hypotension,Condition,increase risk
+#345,AD,Orthostatic hypotension,Condition,increase risk
+#391,Dementia,Orthostatic hypotension,Condition,Increase risk
+#391,Dementia,orthostatic hypotension,Condition,Increase risk
+#995,dementia,Orthostatic hypotension,Condition,Increase risk
+#362,dementia,Osteoarthritis,Condition,Increase risk
+#888,AD,Osteoporosis,Condition,Increase risk
+#863,Dementia,over-the-Counter Supplement Interventions,Medication,Not significant
+#345,dementia,Parkinson's disease,Condition,increase risk
+#321,Dementia,Passive smoking,Life style,Not significant
+#1124,Dementia,Periodontal Disease,Condition,Increase risk
+#435,AD,Peripheral artery disease ,Condition,Not significant
+#487,dementia,peripheral hearing loss,Condition,Inconsistent
+#348,Dementia,Perivascular Spaces,Biomarker,Increase risk
+#891,Dementia,Perivascular Spaces,Biomarker,Increase risk
+#459,dementia,personality disorder,Condition,Not significant
+#1051,AD,Pesticides,Environment,Increase risk
+#1058,AD,Pesticides,Environment,Increase risk
+#299,dementia,Pesticides,Environment,increase risk
+#435,AD,Pesticides ,Environment,Not significant
+#716,FTD,PGRNgene,Genomic,Increase risk
+#435,AD,Pharmacological Antacids ,Medication,Not significant
+#1021,AD,Physical Activity,Life style,Decrease risk
+#1021,Dementia,Physical Activity,Life style,Decrease risk
+#1021,Vascular Dementia,Physical Activity,Life style,Decrease risk
+#214,AD,physical activity,Life style,decrease risk
+#217,dementia,physical activity,Life style,increase risk
+#448,dementia,physical activity,Life style,Not significant
+#484,dementia,physical activity,Life style,Decrease risk
+#564,AD,Physical activity,Life style,inconsistent
+#593,AD,Physical Activity,Life style,Decrease risk
+#746,AD,Physical Activity,Life style,Decrease risk
+#945,vascular dementia,physical activity,Life style,decrease risk
+#952,dementia,physical activity,Life style,Increase risk
+#956,dementia,physical activity,Life style,decrease risk
+#208,AD,Physical activity ,Life style,Increase risk
+#435,dementia,Physical activity ,Life style,Decrease risk
+#435,VaD,Physical activity ,Life style,Decrease risk
+#435,AD,Physical activity ,Life style,Decrease risk
+#487,dementia,Physical activity ,Life style,Decrease risk
+#487,AD,Physical activity ,Life style,Decrease risk
+#515,dementia,Physical activity ,Life style,Decrease risk
+#554,dementia,Physical activity ,Life style,Not significant
+#554,AD,Physical activity ,Life style,Not significant
+#626,dementia,Physical activity ,Life style,Not significant
+#567,AD,physically and cognitively stimulating activities,Life style,Decrease risk
+#833,AD,plants used in indian medicine,Medication,Not significant
+#764,dementia,plasma high-density lipoprotein cholesterol (HDL-C),Biomarker,Not significant
+#234,AD,plasma testosterone level,Biomarker,Increase risk
+#405,AD,plasminogen activator inhibitor-1,Biomarker,Increase risk
+#1258,dementia,PM2.5,Environment,Increase risk
+#1224,AD,polyphenols,Medication,Not significant
+#438,AD,polyphenols,Medication,Not significant
+#780,dementia,Poor Gait Performance,Condition,Increase risk
+#445,dementia,postoperative delirium after hip surgery,Condition,Increase risk
+#502,dementia,Post-traumatic stress disorder (PTSD),Condition,Not significant
+#502,dementia,Post-traumatic stress disorder (PTSD),Condition,Not significant
+#502,Dementia,Post-traumatic stress disorder (PTSD),Condition,Not significant
+#502,dementia,Post-traumatic stress disorder (PTSD),Condition,Not significant
+#185,AD,Prion protein gene polymorphism,Genomic,inconsistent
+#1047,Dementia,Proton-pump inhibitors,Medication,Not significant
+#366,AD,PTGS2 rs20417,Genomic,Increase risk
+#74,AD,raloxifene,Medication,Decrease risk
+#435,AD,Renal Disease,Condition,Not significant
+#87,AD,renin-angiotensin system blockade,Medication,decrease risk
+#278,Dementia,retinal microvascular changes,Condition,Increase risk
+#1067,AD,retinal spectral-domain (SD) OCT measurement,Biomarker,Increase risk
+#504,AD,rivastigmine,Medication,decrease risk
+#424,AD,rs11136000 CLU,Genomic,Increase risk
+#359,AD,rs1467967A/G,Genomic,Not significant
+#359,AD,rs242557G/A,Genomic,Decrease risk
+#359,AD,rs2471738C/T,Genomic,Not significant
+#424,AD,rs3764650 ABCA7,Genomic,Increase risk
+#359,AD,rs3785883G/A,Genomic,Not significant
+#256,AD,rs4646953,Genomic,not significant
+#256,AD,"rs4646953, rs2251101 and rs1544210",Genomic,not significant
+#424,AD,rs610932 MS4A6A,Genomic,Increase risk
+#424,AD,rs6656401 CR1,Genomic,Increase risk
+#359,AD,rs7521G/A,Genomic,Not significant
+#296,AD,Saitohin Q7R polymorphism,Genomic,Increase risk
+#435,AD,Serum uric acid,Condition,Not significant
+#157,dementia,sex,Demographic,Increase risk
+#386,FTD,sex,Demographic,Not significant
+#655,dementia,sex,Demographic,inconsistent
+#952,dementia,sex,Demographic,Increase risk
+#565,AD,sleep disturbances,Condition,Increase risk
+#568,Dementia,Sleep Disturbances,Condition,Increase risk
+#568,AD,Sleep Disturbances,Condition,Increase risk
+#568,Vascular Dementia,Sleep Disturbances,Condition,Increase risk
+#568,Dementia,sleep disturbances,Condition,Increase risk
+#568,AD,sleep disturbances,Condition,Increase risk
+#568,Vascular Dementia,sleep disturbances,Condition,Increase risk
+#435,dementia,sleep duration,Life style,Increase risk
+#435,AD,sleep duration,Life style,not significant
+#501,Dementia,Sleep-disordered breathing,Condition,Increase risk
+#1021,AD,Smoking,Life style,Increase risk
+#1021,Dementia,Smoking,Life style,Increase risk
+#1021,Vascular Dementia,Smoking,Life style,Increase risk
+#208,AD,smoking,Life style,Increase risk
+#213,dementia,Smoking,Life style,inconsistent 
+#217,dementia,Smoking,Life style,Increase risk
+#274,dementia,Smoking,Life style,inconsistent
+#564,AD,Smoking,Life style,inconsistent
+#566,AD,smoking,Life style,Decrease risk
+#567,AD,smoking,Life style,Increase risk
+#655,dementia,Smoking,Life style,inconsistent
+#668,AD,smoking,Life style,Increase risk
+#934,AD,smoking,Life style,Increase risk
+#934,Dementia,smoking,Life style,Increase risk
+#952,dementia,smoking,Life style,Increase risk
+#435,dementia,Smoking ,Life style,Increase risk
+#435,VaD,Smoking ,Life style,Increase risk
+#435,AD,Smoking ,Life style,Increase risk
+#593,AD,social engagement,Condition,Decrease risk
+#435,dementia,social engagement,Life style,Increase risk
+#487,dememtia,social engagement,Life style,Decrease risk
+#551,dementia,social engagement,Life style,Increase risk
+#567,AD,social engagement,Social economic status,Increase risk
+#655,dementia,Socioeconomic status,Social economic status,inconsistent
+#1058,AD,Solvents,Environment,Increase risk
+#419,AD,Sox2OT,Genomic,Increase risk
+#588,AD,SSRIs,Medication,Not significant
+#245,AD,statin,Medication,not significant
+#314,Dementia,statin,Medication,Decrease risk
+#314,AD,statin,Medication,Decrease risk
+#315,vascular dementia,statin,Medication,inconsistent
+#41,dementia,statin,Medication,Not significant
+#435,dementia,statin,Medication,Decrease risk
+#435,AD,statin,Medication,Decrease risk
+#566,AD,statin,Medication,Decrease risk
+#567,AD,statin,Medication,Decrease risk
+#592,AD,statin,Medication,decrease risk
+#640,Dementia,statin,Medication,Decrease risk
+#705,Dementia,statin,Medication,Not significant
+#721,Dementia,statin,Medication,Decrease risk
+#939,AD,statin,Medication,Not significant
+#566,AD,stress,Condition,Decrease risk
+#1260,dementia,stroke,Condition,Increase risk
+#345,dementia,Stroke,Condition,increase risk
+#345,vascular dementia,Stroke,Condition,increase risk
+#345,AD,Stroke,Condition,decrease risk
+#410,Dementia,Stroke,Condition,Increase risk
+#559,dementia,stroke,Condition,Increase risk
+#952,dementia,stroke,Condition,Increase risk
+#747,Dementia,subclinical hypothyroidism (sHT),Condition,Not significant
+#468,AD,systolic hypertension,Condition,Increase risk
+#555,AD,Tau,Biomarker,Increase risk
+#868,AD,Tau,Biomarker,increase risk
+#868,AD,Tau,Biomarker,Not significant
+#868,AD,Tau,Biomarker,increase risk
+#868,AD,Tau,Biomarker,increase risk
+#1078,AD,telomere length,Genomic,Increase risk
+#368,AD,Telomere length,Genomic,Increase risk
+#473,AD,telomere length,Genomic,Increase risk
+#571,AD,the neurological and immune-mediated disease haplotype HLA-DR15,Biomarker,Increase risk
+#856,AD,therapeutic potential of vaccines,Medication,Not significant
+#405,AD,thrombomodulin,Biomarker,Increase risk
+#251,AD,TNF-a promoter 2308 A/G polymorphism,Genomic,Increase risk
+#392,Dementia,Tooth loss,Condition,Increase risk
+#398,dementia,Tooth loss,Condition,increase risk
+#891,Dementia,Total Cerebral Atrophy,Condition,Increase risk
+#553,dementia,toxic heavy metals,Environment,Increase risk
+#1105,AD,Toxoplasma infection,Condition,Not significant
+#42,Vascular dementia,Traditional Chinese herbal medicine (TCHM),Medication,Not significant
+#1127,dementia,traumatic brain injury,Condition,Increase risk
+#346,Dementia,traumatic brain injury,Condition,Not significant
+#421,dementia,traumatic brain injury,Condition,Increase risk
+#428,AD,traumatic brain injury,Condition,Not significant
+#435,dementia,traumatic brain injury,Condition,Not significant
+#435,AD,traumatic brain injury,Condition,Not significant
+#449,dementia,traumatic brain injury,Condition,not significant
+#449,AD,traumatic brain injury,Condition,increase risk
+#454,dementia,traumatic brain injury,Condition,Increase risk
+#487,dementia,traumatic brain injury,Condition,Increase risk
+#567,AD,traumatic brain injury,Condition,Increase risk
+#685,dementia,traumatic brain injury,Condition,inconsistent
+#691,dementia,traumatic brain injury,Condition,Not significant
+#952,dementia,traumatic brain injury,Condition,Increase risk
+#17,dementia,treatment of Type 2 diabetes(glycaemic control),Medication,Increase risk
+#387,AD,TREM2 variants,Genomic,Increase risk
+#440,AD,TREM2 variants,Genomic,Increase risk
+#111,dementia,type 2 diabetes mellitus,Condition,Increase risk
+#208,AD,type 2 diabetes mellitus,Condition,Increase risk
+#282,AD,type 2 diabetes mellitus,Condition,Increase risk
+#512,dementia,type 2 diabetes mellitus,Condition,Increase risk
+#566,AD,type 2 diabetes mellitus,Condition,Increase risk
+#621,AD,type 2 diabetes mellitus,Condition,Increase risk
+#621,Vascular dementia,type 2 diabetes mellitus,Condition,Increase risk
+#831,AD,type 2 diabetes mellitus,Condition,Increase risk
+#831,vascular dementia,type 2 diabetes mellitus,Condition,Increase risk
+#952,dementia,type 2 diabetes mellitus,Condition,Increase risk
+#318,AD,Val66Met polymorphism,Genomic,Not significant
+#716,FTD,Valosin Containing Protein(VCP) Gene Mutations,Genomic,Increase risk
+#213,dementia,vascular risk factors,Condition,Not significant
+#226,dementia,Vegetable consumption,Life style,decrease risk
+#197,AD,Vitamin A supplementation,Medication,decrease risk
+#935,dementia,Vitamin B deficiency,Condition,Not significant
+#1073,Dementia,vitamin B supplementation,Medication,Not significant
+#588,AD,vitamin B supplementation,Medication,Not significant
+#244,dementia,Vitamin C supplementation,Medication,Decrease risk
+#566,AD,vitamin C supplementation,Medication,Decrease risk
+#188,dementia,vitamin d deficiency,Condition,increase risk
+#335,dementia,vitamin d deficiency,Condition,Increase risk
+#553,dementia,vitamin d deficiency,Condition,Increase risk
+#156,Dementia,vitamin d level,Biomarker,Increase risk
+#557,dementia,vitamin d level,Biomarker,Increase risk
+#557,AD,vitamin d level,Biomarker,Increase risk
+#244,dementia,vitamin E supplementation,Medication,Decrease risk
+#35,Dementia,vitamin E supplementation,Medication,Not significant
+#425,AD,vitamin E supplementation,Medication,Decrease risk
+#489,AD,vitamin E supplementation,Medication,Not significant
+#566,AD,vitamin E supplementation,Medication,Decrease risk
+#13,Dementia,Vitamin supplementation,Medication,Not significant
+#405,AD,Von Willebrand factor,Biomarker,Increase risk
+#405,vascular dementia,Von Willebrand factor,Biomarker,Increase risk
+#259,dementia,White matter hyperintensities,Biomarker,Increase risk
+#420,AD,White matter hyperintensities,Biomarker,decrease risk
+#950,dementia,White matter hyperintensities,Biomarker,Increase risk
+#322,dementia,White matter Hyperintensities,Condition,Increase risk
+#322,AD,White matter Hyperintensities,Condition,Increase risk
+#891,Dementia,White Matter Hyperintensities,Condition,Increase risk
+#891,AD,White Matter Hyperintensities,Condition,Increase risk
+#891,Vascular Dementia,White Matter Hyperintensities,Condition,Increase risk
+#915,Dementia,White matter hyperintensities,Condition,Increase risk
+#915,AD,White matter hyperintensities,Condition,Increase risk
+#34,dementia,withdrawing antihypertensive medications,Medication,Not significant
+#219,dementia,Year,Demographic,not significant
+#1143,Dementia,yoga,Life style,Decrease risk
+#821,dementia,yoga,Life style,Not significant
+#821,AD,yoga,Life style,Not significant
+#340,AD,Zinc,Biomarker,inconsistent

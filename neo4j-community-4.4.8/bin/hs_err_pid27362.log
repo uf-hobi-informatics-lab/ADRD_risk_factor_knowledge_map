@@ -1,0 +1,51 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 16384 bytes for committing reserved memory.
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Zero Based Compressed Oops mode in which the Java heap is
+#     placed in the first 32GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 32GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (os_linux.cpp:3123), pid=27362, tid=56393
+#
+# JRE version: OpenJDK Runtime Environment (11.0.19+7) (build 11.0.19+7-post-Ubuntu-0ubuntu118.04.1)
+# Java VM: OpenJDK 64-Bit Server VM (11.0.19+7-post-Ubuntu-0ubuntu118.04.1, mixed mode, sharing, tiered, compressed oops, g1 gc, linux-amd64)
+# Core dump will be written. Default location: Core dumps may be processed with "/usr/share/apport/apport -p%p -s%s -c%c -d%d -P%P -u%u -g%g -- %E" (or dumping to /data/datasets/hexing/2022_ec_standardization/neo4j/neo4j-community-4.4.8/bin/core.27362)
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -XX:+UseG1GC -XX:-OmitStackTraceInFastThrow -XX:+AlwaysPreTouch -XX:+UnlockExperimentalVMOptions -XX:+TrustFinalNonStaticFields -XX:+DisableExplicitGC -XX:MaxInlineLevel=15 -XX:-UseBiasedLocking -Djdk.nio.maxCachedBufferSize=262144 -Dio.netty.tryReflectionSetAccessible=true -Djdk.tls.ephemeralDHKeySize=2048 -Djdk.tls.rejectClientInitiatedRenegotiation=true -XX:FlightRecorderOptions=stackdepth=256 -XX:+UnlockDiagnosticVMOptions -XX:+DebugNonSafepoints -Dlog4j2.disable.jmx=true -Dfile.encoding=UTF-8 org.neo4j.server.CommunityEntryPoint --home-dir=/data/datasets/hexing/2022_ec_standardization/neo4j/neo4j-community-4.4.8 --config-dir=/data/datasets/hexing/2022_ec_standardization/neo4j/neo4j-community-4.4.8/conf
+
+Host: Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz, 96 cores, 1007G, Ubuntu 18.04.6 LTS
+Time: Thu Jan  4 14:57:42 2024 EST elapsed time: 662793.032631 seconds (7d 16h 6m 33s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007f1840013d60):  JavaThread "neo4j.TransactionTimeoutMonitor-97" daemon [_thread_new, id=56393, stack(0x00007f153d2ee000,0x00007f153d3ef000)]
+
+Stack: [0x00007f153d2ee000,0x00007f153d3ef000],  sp=0x00007f153d3ed9a0,  free space=1022k
+Native frames: (J=compiled Java code, A=aot compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [libjvm.so+0xe346d6]
+[timeout occurred during error reporting in step "printing native stack
+[timeout occurred during error reporting in step "printing native stack"] after 40 s.
+
+---------------  P R O C E S S  ---------------
+
+Threads class SMR info:
+_java_thread_list=0x00007f1310002ae0, length=303, elements={
+0x00007f19e45209f0, 0x00007f19e4522330, 0x00007f19e4527350, 0x00007f19e4528b90,
+
+------ Timeout during error reporting after 124 s. ------
